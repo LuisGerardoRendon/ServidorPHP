@@ -1,0 +1,7 @@
+{
+  "name": "miembrosfei/calculadora",
+  "description": "",
+  "autoload": {
+    "classmap": ["service", "ThriftLibs"]
+  }
+}
